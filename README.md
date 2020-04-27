@@ -2,7 +2,8 @@
 
 ### CMD deploy instructions 
 - Download and unzip this repo
-- From a new command prompt window, navigate to the target folder of the project
+- From a new command prompt window, run mvn clean install
+- Navigate to the target folder of the project
 - Execute: java -jar signapptest-0.0.1-SNAPSHOT.jar
 
 ### Question 1
