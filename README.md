@@ -10,7 +10,7 @@ After startup 2 threads will print to the window
 
 ### Question 2
 
-- Endpoint: localhost:8080/v1/patients
+- Endpoint: [localhost:8080/v1/patients](http://localhost:8080/v1/patients)
 - Method: POST
 
 #### Sample Request
